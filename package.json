@@ -1,0 +1,34 @@
+{
+  "name": "Node-training",
+  "version": "1.0.0",
+  "description": "Personal training in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/cors": "^3.1.0",
+    "boom": "^7.3.0",
+    "fastest-validator": "^1.7.0",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^9.4.0",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroOneTV/node-training.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZeroOneTV/node-training/issues"
+  },
+  "homepage": "https://github.com/ZeroOneTV/node-training#readme"
+}
